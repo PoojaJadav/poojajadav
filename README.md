@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**PoojaJadav/poojajadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pooja Jadav, a passionate software developer with a love for building innovative solutions. My journey in coding started in 2018 and I've been fascinated by the endless possibilities ever since. I thrive on challenges and enjoy diving into new technologies to expand my skill set. My areas of expertise include Laravel, Livewire, Vue Js, Tailwind CSS, Alpine.js, FFmpeg, HubSpot and I'm always eager to learn more.
 
-Here are some ideas to get you started:
+💃 When I'm not coding, I'm usually on my MacBook, either watching series, planning adventures, or reading books. Feel free to chat about projects, collaborate, or swap recommendations for shows and books. Let's connect and share experiences! 😄🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on exciting projects that challenge and inspire me.
+- 🌱 Learning React.js and exploring HubSpot CRM
+- 👯 Open to collaborations that push boundaries and make a positive impact
+- 🤔 Could use some help mastering advanced React.js concepts.
+- 💬 Ask me anything about Laravel, Livewire, or any tech-related queries—I'm here to help!
+- 📫 Reach me via email at [contact2pooja36@gmail.com] or connect with me on LinkedIn[https://linkedin.com/pooja-jadav].
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love reading and I'm a prolonged tea lover!
