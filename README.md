@@ -9,6 +9,6 @@ I'm Pooja Jadav, a passionate software developer with a love for building innova
 - 👯 Open to collaborations that push my boundaries and make a positive impact
 - 🤔 Could use some help mastering advanced React.js concepts.
 - 💬 Ask me anything about Laravel, Livewire, or any tech-related queries—I'm here to help!
-- 📫 Reach me via email at [contact2pooja36@gmail.com] or connect with me on LinkedIn[https://linkedin.com/pooja-jadav].
+- 📫 Reach me via email at [pooja.prodev@gmail.com] or connect with me on LinkedIn[https://linkedin.com/pooja-jadav].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading and I'm a prolonged tea lover!
